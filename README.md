@@ -1,2 +1,0 @@
-# TVBox-api
-TVBox API

@@ -2,15 +2,15 @@
     "storeHouse":[
         {
             "sourceName":"🎃线路一",
-            "sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=1&b=tvdotnxogdottop"
+            "sourceUrl":"http://tv.nxog.top/api1.php?mz=m&id=1&b=tvdotnxogdottop"
         },
         {
             "sourceName":"🔥线路二",
-            "sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=2&b=tvdotnxogdottop"
+            "sourceUrl":"http://tv.nxog.top/api1.php?mz=m&id=2&b=tvdotnxogdottop"
         },
         {
             "sourceName":"🎁线路三",
-            "sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=4&b=tvdotnxogdottop"
+            "sourceUrl":"http://tv.nxog.top/api1.php?mz=m&id=28&b=tvdotnxogdottop"
         }
     ]
 }

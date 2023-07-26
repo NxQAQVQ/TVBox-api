@@ -1,16 +1,12 @@
 {
     "storeHouse":[
         {
-            "sourceName":"主线1",
+            "sourceName":"主线",
             "sourceUrl":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/NxQAQVQ/TVBox-api/master/tvbox.json"
         },
         {
-            "sourceName":"主线2",
-            "sourceUrl":"https://cdn.jsdelivr.net/gh/NxQAQVQ/TVBox-api@master/tvbox.json"
-        },
-        {
             "sourceName":"备用",
-            "sourceUrl":"http://m.nxog.top/api1.php?id=21"
+            "sourceUrl":"https://cdn.jsdelivr.net/gh/NxQAQVQ/TVBox-api@master/tvbox.json"
         }
     ]
 }

@@ -1,16 +1,12 @@
 {
     "storeHouse":[
         {
-            "sourceName":"🎃线路一",
-            "sourceUrl":"http://tv.nxog.top/api1.php?mz=m&id=1&b=tvdotnxogdottop"
+            "sourceName":"主线",
+            "sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/NxQAQVQ/TVBox-api/master/tvbox.json"
         },
         {
-            "sourceName":"🔥线路二",
-            "sourceUrl":"http://tv.nxog.top/api1.php?mz=m&id=2&b=tvdotnxogdottop"
-        },
-        {
-            "sourceName":"🎁线路三",
-            "sourceUrl":"http://tv.nxog.top/api1.php?mz=m&id=28&b=tvdotnxogdottop"
+            "sourceName":"备用",
+            "sourceUrl":"http://m.nxog.top/api1.php?id=21"
         }
     ]
 }

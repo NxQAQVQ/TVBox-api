@@ -2,7 +2,7 @@
     "storeHouse":[
         {
             "sourceName":"主线",
-            "sourceUrl":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/NxQAQVQ/TVBox-api/master/tvbox.json"
+            "sourceUrl":"https://jsd.cdn.zzko.cn/gh/NxQAQVQ/TVBox-api@master/tvbox.json"
         },
         {
             "sourceName":"备用",

@@ -7,6 +7,14 @@
         {
             "url":"https://tvbox.cainisi.cf",
             "name":"采尼丝"
+        },
+        {
+            "url":"https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
+            "name":"月光宝盒"
+        },
+        {
+            "url":"http://pandown.pro/tvbox/tvbox.json",
+            "name":"巧技"
         }
     ]
 }

@@ -5,7 +5,7 @@
             "name":"饭太硬"
         },
         {
-            "url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url":"https://jsd.cdn.zzko.cn/gh/FongMi/CatVodSpider@main/json/config.json",
             "name":"蜂蜜"
         },
         {
@@ -13,24 +13,12 @@
             "name":"骚零"
         },
         {
-            "url":"https://tvbox.cainisi.cf",
-            "name":"采尼丝"
-        },
-        {
             "url":"http://xn--ihqu10cn4c.xn--z7x900a.live/%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96",
             "name":"肥猫"
         },
         {
-            "url":"https://gh.t4tv.hz.cz/newtang.bmp",
-            "name":"长老"
-        },
-        {
-            "url":"https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
-            "name":"月光宝盒"
-        },
-        {
-            "url":"http://pandown.pro/tvbox/tvbox.json",
-            "name":"巧技"
+            "url":"https://jsd.cdn.zzko.cn/gh/FongMi/CatVodSpider@main/json/adult.json",
+            "name":"成人18禁"
         }
     ]
 }
